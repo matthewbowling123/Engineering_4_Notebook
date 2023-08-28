@@ -58,5 +58,5 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Link
 
 ### Test Image
-
+ ![](images/your-image-name.png)
 ### Test GIF
