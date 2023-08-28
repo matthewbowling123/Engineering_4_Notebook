@@ -58,5 +58,5 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Link
 
 ### Test Image
- ![Turtle eats strawberry](c93678ec8f70bbbef03023aa85891d92.png)
+ ![c93678ec8f70bbbef03023aa85891d92.png](c93678ec8f70bbbef03023aa85891d92.png)
 ### Test GIF
