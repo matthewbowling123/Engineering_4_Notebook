@@ -42,7 +42,7 @@ For this assignment I was asked to make the rasberry pi's onboard LED blink.
 Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
 
 ### Code
-[code](#https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/LED_blink.py)
+[code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/LED_blink.py)
 
 ### Reflection
 
@@ -60,7 +60,7 @@ For this assignment I was asked to make the Pico print a countdown from 10 and t
 
 
 ### Code
-[Code](#https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
+[Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
 ### Reflection
 
