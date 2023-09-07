@@ -60,7 +60,7 @@ For this assignment I was asked to make the Pico print a countdown from 10 and t
 
 
 ### Code
-[Code](
+[Code](#https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
 ### Reflection
 
