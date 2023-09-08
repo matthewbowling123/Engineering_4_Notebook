@@ -72,6 +72,10 @@ This assignment really helped me remember how CPython works. It was a litlle cha
 for this assignment I was asked to expand on the previous countdown assignment by having a red LED blink whenever the value of the countdown decreased. I was also asked to have a green LED turn on when the countdown finished.
 
 ### Evidence
+![CountdownGif](images/CountdownGif.gif)
+
+### Code
+[Code]
 ## Onshape_Assignment_Template
 
 ### Assignment Description
