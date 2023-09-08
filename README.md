@@ -48,7 +48,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 
 This assignment was easy but it really only existed to get us used to the new Pico and refresh our knowledge oc CPython.
 
-## LED Launchpad countdown
+## Launchpad countdown
 
 ### Assignment Description
 
@@ -65,6 +65,13 @@ For this assignment I was asked to make the Pico print a countdown from 10 and t
 ### Reflection
 
 This assignment really helped me remember how CPython works. It was a litlle challenging at first but after a bit of tinkering I figured it out.
+
+## Launchpad countdown with LEDs
+
+### description
+for this assignment I was asked to expand on the previous countdown assignment by having a red LED blink whenever the value of the countdown decreased. I was also asked to have a green LED turn on when the countdown finished.
+
+### Evidence
 ## Onshape_Assignment_Template
 
 ### Assignment Description
