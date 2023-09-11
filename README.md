@@ -75,7 +75,9 @@ for this assignment I was asked to expand on the previous countdown assignment b
 ![CountdownGif](images/CountdownGif.gif)
 
 ### Code
-[Code]
+
+[Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
