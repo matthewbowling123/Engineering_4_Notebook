@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [LED Blink](#LED_blink)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -31,7 +32,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## LED blink
+## LED_blink
 
 ### Assignment Description
 
