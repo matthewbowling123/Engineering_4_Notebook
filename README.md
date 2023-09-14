@@ -78,6 +78,12 @@ for this assignment I was asked to expand on the previous countdown assignment b
 
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
+### Launchpad countdown with Button and Servo
+
+## Description
+For this next part of the assignment I was asked to add a button that started the countdown and a Servo which rotates when the countdown ends. then to spice it up I was asked to add an abort function which would abort the countdown when the button was pressed.
+
+## Evidence
 ## Onshape_Assignment_Template
 
 ### Assignment Description
