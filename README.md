@@ -84,6 +84,9 @@ for this assignment I was asked to expand on the previous countdown assignment b
 For this next part of the assignment I was asked to add a button that started the countdown and a Servo which rotates when the countdown ends. then to spice it up I was asked to add an abort function which would abort the countdown when the button was pressed.
 
 ## Evidence
+![ServoButton](images/ServoButton.gif)
+
+### Code
 ## Onshape_Assignment_Template
 
 ### Assignment Description
