@@ -89,6 +89,12 @@ For this next part of the assignment I was asked to add a button that started th
 
 ### Code
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
+
+## Crash Avoidence Pt 1
+
+### Description
+for this assignment I was supposed to use an accelerometer to print the values of acceleration.
+## Evidence
 ## Onshape_Assignment_Template
 
 ### Assignment Description
