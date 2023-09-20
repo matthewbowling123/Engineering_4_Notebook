@@ -47,7 +47,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 
 ### Reflection
 
-This assignment was easy but it really only existed to get us used to the new Pico and refresh our knowledge on CPython. This was a very fun assignment. It was a real learning expierience
+This assignment was easy but it really only existed to get us used to the new Pico and refresh our knowledge on CPython.
 
 ## Launchpad countdown
 
@@ -79,6 +79,8 @@ for this assignment I was asked to expand on the previous countdown assignment b
 
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
+### Reflection
+This was a very fun assignment. It was a real learning expierience. I am thankful for MR. Millers instructions.
 ### Launchpad countdown with Button and Servo
 
 ## Description
