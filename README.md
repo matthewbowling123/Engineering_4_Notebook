@@ -47,7 +47,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 
 ### Reflection
 
-This assignment was easy but it really only existed to get us used to the new Pico and refresh our knowledge oc CPython.
+This assignment was easy but it really only existed to get us used to the new Pico and refresh our knowledge on CPython. This was a very fun assignment. It was a real learning expierience
 
 ## Launchpad countdown
 
