@@ -75,6 +75,9 @@ for this assignment I was asked to expand on the previous countdown assignment b
 ### Evidence
 ![CountdownGif](images/CountdownGif.gif)
 
+### Wiring
+![LEDwiring](images/LEDwiring.png)
+
 ### Code
 
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
