@@ -97,6 +97,10 @@ for this assignment I was supposed to use an accelerometer to print the values o
 ## Evidence
 ![accelerometer](images/accelerometer.gif)
 
+## Crash Avoidence Pt 2
+
+### Description
+For this assignment I was meant to make an LED turn on whenever the ship was rotated 90 degrees.
 ### Code
 
 ## Onshape_Assignment_Template
