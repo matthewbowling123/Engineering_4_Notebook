@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [LED Blink](#LED_blink)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -31,7 +32,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## LED blink
+## LED_blink
 
 ### Assignment Description
 
@@ -87,6 +88,17 @@ For this next part of the assignment I was asked to add a button that started th
 ![ServoButton](images/ServoButton.gif)
 
 ### Code
+[Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
+
+## Crash Avoidence Pt 1
+
+### Description
+for this assignment I was supposed to use an accelerometer to print the values of acceleration.
+## Evidence
+![accelerometer](images/accelerometer.gif)
+
+### Code
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
