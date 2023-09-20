@@ -95,7 +95,7 @@ For this next part of the assignment I was asked to add a button that started th
 ### Description
 for this assignment I was supposed to use an accelerometer to print the values of acceleration.
 ## Evidence
-![accelerometer](images/accelerometer.gif
+![accelerometer](images/accelerometer.gif)
 
 ### Code
 
