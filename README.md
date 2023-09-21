@@ -47,7 +47,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 
 ### Reflection
 
-This assignment was easy but it really only existed to get us used to the new Pico and refresh our knowledge on CPython.
+This assignment may not have been the most difficult but it helped me relearn how CPython code works. It recaped how an LED is wired and coded whcih was helpful in jogging my memory. Im glad I was able to do this and will chalenge more difficult assignments next.
 
 ## Launchpad countdown
 
@@ -65,7 +65,7 @@ For this assignment I was asked to make the Pico print a countdown from 10 and t
 
 ### Reflection
 
-This assignment really helped me remember how CPython works. It was a litlle challenging at first but after a bit of tinkering I figured it out.
+This assignment brought back several commands that I needed to remember for this class. for example I learned about the X function being set and how to make the Serial Monitor print a countdown. I did not require help but I did take slightly longer on this assignment which means it was somewhat mor difficult.
 
 ## Launchpad countdown with LEDs
 
@@ -83,7 +83,7 @@ for this assignment I was asked to expand on the previous countdown assignment b
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
 ### Reflection
-This was a very fun assignment. It was a real learning expierience. I am thankful for MR. Millers instructions.
+This was essentially the previous assignment but with an added LED. I used what I learned about LEDs last year and added that knowledge to this assignment. Overall I learned a lot on this assignment.
 ### Launchpad countdown with Button and Servo
 
 ## Description
@@ -98,12 +98,17 @@ For this next part of the assignment I was asked to add a button that started th
 ### Code
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
+### Reflection
+This assignment added a Button and a Servo. Both componenets were used last year so This assignment helped me to remember how to wire and code those components. I learned a lot about the button commands as well.
+
 ## Crash Avoidence Pt 1
 
 ### Description
 for this assignment I was supposed to use an accelerometer to print the values of acceleration.
-## Evidence
+### Evidence
 ![accelerometer](images/accelerometer.gif)
+### Reflection
+This assignment intoroduced the accelerometer. I used this component 2 years ago but it was with a differant coding program so I was really relearning this from scratch. I used the help of other students around me to learn about this and I am glad I could learn more about this important hardware.
 
 ## Crash Avoidence Pt 2
 
