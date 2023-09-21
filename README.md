@@ -107,6 +107,8 @@ This assignment added a Button and a Servo. Both componenets were used last year
 for this assignment I was supposed to use an accelerometer to print the values of acceleration.
 ### Evidence
 ![accelerometer](images/accelerometer.gif)
+### Wiring
+![accelerometerwiring](images/accelerometerwiring.png)
 ### Reflection
 This assignment intoroduced the accelerometer. I used this component 2 years ago but it was with a differant coding program so I was really relearning this from scratch. I used the help of other students around me to learn about this and I am glad I could learn more about this important hardware.
 
