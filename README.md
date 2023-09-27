@@ -117,6 +117,12 @@ This assignment intoroduced the accelerometer. I used this component 2 years ago
 ### Description
 For this assignment I was meant to make an LED turn on whenever the ship was rotated 90 degrees.
 ### Code
+[Code]()
+## Crash Avoidence 3
+
+### Description
+for this assignment I was asked to add an OLED screen to the previous circuit that would print the gyro values while the circuit runs.
+### Code
 
 ## Onshape_Assignment_Template
 
