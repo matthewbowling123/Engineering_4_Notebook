@@ -128,6 +128,8 @@ for this assignment I was asked to add an OLED screen to the previous circuit th
 ![OLED](images/OLED.gif)
 ### Code
 [code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidenceOLED)
+### Wiring
+![OLEDWiring](images/OLEDWiring.png)
 ## Onshape_Assignment_Template
 
 ### Assignment Description
