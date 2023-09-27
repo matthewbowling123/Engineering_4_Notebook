@@ -122,8 +122,10 @@ For this assignment I was meant to make an LED turn on whenever the ship was rot
 
 ### Description
 for this assignment I was asked to add an OLED screen to the previous circuit that would print the gyro values while the circuit runs.
-### Code
+### Evidence
 
+### Code
+[code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidenceOLED)
 ## Onshape_Assignment_Template
 
 ### Assignment Description
