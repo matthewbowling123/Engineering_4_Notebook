@@ -118,6 +118,8 @@ This assignment intoroduced the accelerometer. I used this component 2 years ago
 For this assignment I was meant to make an LED turn on whenever the ship was rotated 90 degrees.
 ### Code
 [Code]()
+### Wiring
+![BatteryLEDWiring](images/BatteryLEDWiring.png)
 ## Crash Avoidence 3
 
 ### Description
