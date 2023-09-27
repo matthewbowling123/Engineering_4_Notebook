@@ -120,6 +120,8 @@ For this assignment I was meant to make an LED turn on whenever the ship was rot
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence)
 ### Wiring
 ![BatteryLEDWiring](images/BatteryLEDWiring.png)
+### Reflection
+This assignment was mostly pretty simple but the battery took a little bit to figure out. I learned how to charge the Battery and how to wire and code it which will be very helpful later this year. This assignment was great because i learned something.
 ## Crash Avoidence 3
 
 ### Description
@@ -130,6 +132,8 @@ for this assignment I was asked to add an OLED screen to the previous circuit th
 [code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidenceOLED)
 ### Wiring
 ![OLEDWiring](images/OLEDWiring.png)
+### Reflection 
+This assignment was the first one this year that was acctually challenging. It was difficult because I had never used an OLED before. I learned about the OLEDs wiring and Code as well as learned about f strings which will all be very helpful in the future. Im very glad I did this assignment even though it was very hard.
 ## Onshape_Assignment_Template
 
 ### Assignment Description
