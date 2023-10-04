@@ -140,6 +140,8 @@ This assignment was the first one this year that was acctually challenging. It w
 For this assignment we were challenged to create a beam that could support the most amount of weight that we could. It also included several rules we needed to follow. For example it needed to be 180 mm long and could not use angles greatewr then 45 degrees.
 ### Part Link
 [Link](https://cvilleschools.onshape.com/documents/612d3b9286e5a0bfa339152e/w/fc81e668b00e0ee0c54c7765/e/e5900d19b5ba4f1918d7debd)
+### Part Image
+![No.2.png](images/No.2.png)
 ## Onshape_Assignment_Template
 
 ### Assignment Description
