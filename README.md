@@ -142,7 +142,7 @@ For this assignment we were challenged to create a beam that could support the m
 [Link](https://cvilleschools.onshape.com/documents/612d3b9286e5a0bfa339152e/w/fc81e668b00e0ee0c54c7765/e/e5900d19b5ba4f1918d7debd)
 ### Part Image
 ![No.3.png](images/No.3.png)
-###
+### Reflection
 For this assignment we began by researching beam theory which taught us about point loads and cantilever beams. Using this knowledge we decided to make an I beam with evenly distributed weight. Because of the rule about angles we decided to use Chamfers on the edges which made the angles the right amount of degrees. We also used a loft so that the weight could be distributed better. Overall tis assignment taught us a lot about Beam theory and the best designs for beams.
 ## Onshape_Assignment_Template
 
