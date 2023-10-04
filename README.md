@@ -137,13 +137,13 @@ This assignment was the first one this year that was acctually challenging. It w
 
 ## Beam
 ### Description
-For this assignment we were challenged to create a beam that could support the most amount of weight that we could. It also included several rules we needed to follow. For example it needed to be 180 mm long and could not use angles greatewr then 45 degrees.
+For this assignment we were challenged to create a beam that could support the most amount of weight that we could. It also included several rules we needed to follow. For example it needed to be 180 mm long and could not use angles greater than 45 degrees.
 ### Part Link
 [Link](https://cvilleschools.onshape.com/documents/612d3b9286e5a0bfa339152e/w/fc81e668b00e0ee0c54c7765/e/e5900d19b5ba4f1918d7debd)
 ### Part Image
 ![No.3.png](images/No.3.png)
 ### Reflection
-For this assignment we began by researching beam theory which taught us about point loads and cantilever beams. Using this knowledge we decided to make an I beam with evenly distributed weight. Because of the rule about angles we decided to use Chamfers on the edges which made the angles the right amount of degrees. We also used a loft so that the weight could be distributed better. Overall tis assignment taught us a lot about Beam theory and the best designs for beams.
+For this assignment we began by researching beam theory which taught us about point loads and cantilever beams. Using this knowledge we decided to make an I beam with evenly distributed weight. Because of the rule about angles we decided to use Chamfers on the edges which made the angles the right amount of degrees. We also used a loft so that the weight could be distributed better. We owe a lot of thanks to [this website](https://engineering.stackexchange.com/questions/50258/whats-the-best-shape-solid-of-revolution-for-a-cantilever-beam-to-carry-a-poi) for helping us learn about cantilever beams and showing us that the I beam is the best option.
 ## Onshape_Assignment_Template
 
 ### Assignment Description
