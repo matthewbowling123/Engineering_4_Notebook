@@ -84,12 +84,12 @@ for this assignment I was asked to expand on the previous countdown assignment b
 
 ### Reflection
 This was essentially the previous assignment but with an added LED. I used what I learned about LEDs last year and added that knowledge to this assignment. Overall I learned a lot on this assignment.
-### Launchpad countdown with Button
+## Launchpad countdown with Button and Sevo
 
-## Description
-For this next part of the assignment I was asked to add a button that started the countdown. then to spice it up I was asked to add an abort function which would abort the countdown when the button was pressed.
+### Description
+For this next part of the assignment I was asked to add a Servo tnat would rotate after the countdown. then to spice it up I was asked to add an abort function which would abort the countdown when the button was pressed.
 
-## Evidence
+### Evidence
 ![ServoButton](images/ServoButton.gif)
 
 ### Wiring
@@ -99,8 +99,7 @@ For this next part of the assignment I was asked to add a button that started th
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
 ### Reflection
-This assignment added a Button and a Servo. The Button was used in previous years but this assignment helped remind me how to wire and code it. I learned a lot about the button commands as well.
-
+This assignment added a Servo. The Servo was used in previous years but this assignment helped remind me how to wire and code it. I learned a lot about the Servo commands as well.
 
 
 ## Crash Avoidence Pt 1
