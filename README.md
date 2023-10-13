@@ -145,6 +145,7 @@ This assignment was the first one this year that was acctually challenging. It w
 ### Description
 For this part of the assignment we were meant to simulate our beam using the onshape simulation and predict things like deflection and breaking points.
 ### Evidence
+![No 85 assembly](images/No 85 assembly.png)
 
 
 ## Beam
