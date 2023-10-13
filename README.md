@@ -141,6 +141,11 @@ for this assignment I was asked to add an OLED screen to the previous circuit th
 ![OLEDWiring](images/OLEDWiring.png)
 ### Reflection 
 This assignment was the first one this year that was acctually challenging. It was difficult because I had never used an OLED before. I learned about the OLEDs wiring and Code as well as learned about f strings which will all be very helpful in the future. Im very glad I did this assignment even though it was very hard.
+## FEA part 3
+### Description
+For this part of the assignment we were meant to simulate our beam using the onshape simulation and predict things like deflection and breaking points.
+### Evidence
+
 
 ## Beam
 ### Description
