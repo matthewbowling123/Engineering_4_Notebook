@@ -151,6 +151,11 @@ For this part of the assignment we were meant to simulate our beam using the ons
 ### Reflection
 This assignment was the first time we had ever used the Onshape simulation. We had to research how it works through Onshapes very helpful tutorials. Through the simulation we lerned that the point with the most stress was on the back of the beam and used this information to further support that area. It also helped us learn how to distribute the weight. The Simulation works by applying a force to the object. It then color codes the entire object and gives you the stress factor with yellow being the most stress and blue being the least. These will be very helpful in future projects.
 
+## FEA part 4
+### Description
+After simulating the beam we had to improve on the design in order to make its deflection better.
+### Evidence
+![No86assembly](images/No86assembly.png
 
 ## Beam
 ### Description
