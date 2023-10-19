@@ -156,7 +156,7 @@ This assignment was the first time we had ever used the Onshape simulation. We h
 After simulating the beam we had to improve on the design in order to make its deflection better.
 ### Evidence
 ![No86assembly](images/No86assembly.png)
-![No86assembly1](images/No86assembly1.png)
+![No.86assembly1](images/No.86assembly1.png)
 
 ### Reflection
 After our previous beam broke we began working on a new one. We took the old one and changed the distribution of the weight by changing the length and and angles along the first Loft that created the beam. We also changed the hollow part of the beam to instead be two holes going through the Loft which added more strength in the middle and provided less stress. In order to take the stress off the back of the beam we added fillets on the back that supported extra weight. This ultimately distributed the weight more evenly throughtout the beam which reduced the total stress in any area. We also figured out that the simulation was bonded wrong because it had bonded with all faces instead of specific mates. After fixing this problem the simulation began running more smoothly and provided a more accurate anlaysis.
