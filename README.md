@@ -155,7 +155,7 @@ This assignment was the first time we had ever used the Onshape simulation. We h
 ### Description
 After simulating the beam we had to improve on the design in order to make its deflection better.
 ### Evidence
-![No86assembly](images/No86assembly.png
+![No86assembly](images/No86assembly.png)
 
 ## Beam
 ### Description
