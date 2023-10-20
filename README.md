@@ -8,8 +8,8 @@
 * [Launchpad Countdown](#Launchpad_countdown)
 * [Launchpad countdown with LEDs](#Launchpad_countdown_with_LEDs)
 * [Launchpad countdown with Button](Launchpad_countdown_with_Button)
-* [FEA Part 3](FEA_part_3)
-* [FEA Part 4](FEA_part_4)
+* [FEA part 3](FEA_part_3)
+* [FEA part 4](FEA_part_4)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
