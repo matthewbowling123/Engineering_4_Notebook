@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [LED Blink](#LED_blink)
-* [Launchpad countdown with LEDs](#Launchpad countdown with LEDs)
+* [Launchpad countdown with LEDs](#Launchpad_countdown_with_LEDs)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -68,7 +68,7 @@ For this assignment I was asked to make the Pico print a countdown from 10 and t
 
 This assignment brought back several commands that I needed to remember for this class. for example I learned about the X function being set and how to make the Serial Monitor print a countdown. I did not require help but I did take slightly longer on this assignment which means it was somewhat mor difficult.
 
-## Launchpad countdown with LEDs
+## Launchpad_countdown_with_LEDs
 
 ### description
 for this assignment I was asked to expand on the previous countdown assignment by having a red LED blink whenever the value of the countdown decreased. I was also asked to have a green LED turn on when the countdown finished.
@@ -182,7 +182,7 @@ After simulating the beam we had to improve on the design in order to make its d
 ### Reflection
 After our previous beam broke we began working on a new one. We took the old one and changed the distribution of the weight by changing the length and and angles along the first Loft that created the beam. We also changed the hollow part of the beam to instead be two holes going through the Loft which added more strength in the middle and provided less stress. In order to take the stress off the back of the beam we added fillets on the back that supported extra weight. This ultimately distributed the weight more evenly throughtout the beam which reduced the total stress in any area. We also figured out that the simulation was bonded wrong because it had bonded with all faces instead of specific mates. After fixing this problem the simulation began running more smoothly and provided a more accurate anlaysis.
 
-## Beam
+## Beam Design
 ### Description
 For this assignment we were challenged to create a beam that could support the most amount of weight that we could. It also included several constraints we needed to follow. For example it needed to be 180 mm long and could not use angles greater than 45 degrees.
 ### Part Link
