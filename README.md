@@ -5,7 +5,9 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [LED Blink](#LED_blink)
+* [Launchpad Countdown](#Launchpad_countdown)
 * [Launchpad countdown with LEDs](#Launchpad_countdown_with_LEDs)
+* [Launchpad_countdown_with_Button](Launchpad_countdown_with_Button)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -50,7 +52,7 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 
 This assignment may not have been the most difficult but it helped me relearn how CPython code works. It recaped how an LED is wired and coded whcih was helpful in jogging my memory. Im glad I was able to do this and will chalenge more difficult assignments next.
 
-## Launchpad countdown
+## Launchpad_countdown
 
 ### Assignment Description
 
@@ -86,7 +88,7 @@ for this assignment I was asked to expand on the previous countdown assignment b
 ### Reflection
 This was essentially the previous assignment but with an added LED. I used what I learned about LEDs last year and added that knowledge to this assignment. Overall I learned a lot on this assignment.
 
-## Launchpad countdown with Button
+## Launchpad_countdown_with_Button
 ### Description
 For this assignment I was asked to add a button to the previous assignment which would start the countdown.
 ### Evidence
