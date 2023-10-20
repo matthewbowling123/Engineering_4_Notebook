@@ -84,11 +84,13 @@ for this assignment I was asked to expand on the previous countdown assignment b
 
 ### Reflection
 This was essentially the previous assignment but with an added LED. I used what I learned about LEDs last year and added that knowledge to this assignment. Overall I learned a lot on this assignment.
+
 ## Launchpad countdown with Button
 ### Description
 For this assignment I was asked to add a button to the previous assignment which would start the countdown.
 ### Evidence
 ![ServoButton](images/ServoButton.gif)
+### Wiring
 
 ## Launchpad countdown with Button and Sevo
 
