@@ -116,10 +116,13 @@ This assignment added a Servo. The Servo was used in previous years but this ass
 
 ### Description
 for this assignment I was supposed to use an accelerometer to print the values of acceleration.
+
 ### Evidence
 ![accelerometer](images/accelerometer.gif)
+
 ### Wiring
 ![accelerometerwiring](images/accelerometerwiring.png)
+
 ### Reflection
 This assignment intoroduced the accelerometer. I used this component 2 years ago but it was with a differant coding program so I was really relearning this from scratch. I used the help of other students around me to learn about this and I am glad I could learn more about this important hardware.
 
@@ -127,43 +130,57 @@ This assignment intoroduced the accelerometer. I used this component 2 years ago
 
 ### Description
 For this assignment I was meant to make an LED turn on whenever the ship was rotated 90 degrees.
+
 ### Code
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence)
+
 ### Wiring
 ![BatteryLEDWiring](images/BatteryLEDWiring.png)
+
 ### Reflection
 This assignment was mostly pretty simple but the battery took a little bit to figure out. I learned how to charge the Battery and how to wire and code it which will be very helpful later this year. This assignment was great because i learned something.
+
 ## Crash Avoidence 3
 
 ### Description
 for this assignment I was asked to add an OLED screen to the previous circuit that would print the gyro values while the circuit runs.
+
 ### Evidence
 ![OLED](images/OLED.gif)
+
 ### Code
 [code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidenceOLED)
+
 ### Wiring
 ![OLEDWiring](images/OLEDWiring.png)
+
 ### Reflection 
 This assignment was the first one this year that was acctually challenging. It was difficult because I had never used an OLED before. I learned about the OLEDs wiring and Code as well as learned about f strings which will all be very helpful in the future. Im very glad I did this assignment even though it was very hard.
 
 ## FEA part 3
+
 ### Description
 For this part of the assignment we were meant to simulate our beam using the onshape simulation and predict things like deflection and breaking points.
+
 ### Evidence
 ![No85assembly](images/No85assembly.png)
 ![No85assembly1](images/No86assembly1.png)
+
 ### Reflection
 This assignment was the first time we had ever used the Onshape simulation. We had to research how it works through Onshapes very helpful tutorials. Through the simulation we lerned that the point with the most stress was on the back of the beam and used this information to further support that area. It also helped us learn how to distribute the weight. The Simulation works by applying a force to the object. It then color codes the entire object and gives you the stress factor with yellow being the most stress and blue being the least. These will be very helpful in future projects.
 
 ## FEA part 4
+
 ### Description
 After simulating the beam we had to improve on the design in order to make its deflection better.
+
 ### Evidence
 ![No86assembly](images/No86assembly.png)
 ![No.86Assembly1](images/No.86Assembly1.png)
 
 ### Reflection
 After our previous beam broke we began working on a new one. We took the old one and changed the distribution of the weight by changing the length and and angles along the first Loft that created the beam. We also changed the hollow part of the beam to instead be two holes going through the Loft which added more strength in the middle and provided less stress. In order to take the stress off the back of the beam we added fillets on the back that supported extra weight. This ultimately distributed the weight more evenly throughtout the beam which reduced the total stress in any area. We also figured out that the simulation was bonded wrong because it had bonded with all faces instead of specific mates. After fixing this problem the simulation began running more smoothly and provided a more accurate anlaysis.
+
 ## Beam
 ### Description
 For this assignment we were challenged to create a beam that could support the most amount of weight that we could. It also included several constraints we needed to follow. For example it needed to be 180 mm long and could not use angles greater than 45 degrees.
