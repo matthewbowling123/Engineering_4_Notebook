@@ -7,7 +7,7 @@
 * [LED Blink](#LED_blink)
 * [Launchpad Countdown](#Launchpad_countdown)
 * [Launchpad countdown with LEDs](#Launchpad_countdown_with_LEDs)
-* [Launchpad_countdown_with_Button](Launchpad_countdown_with_Button)
+* [Launchpad countdown with Button](Launchpad_countdown_with_Button)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
