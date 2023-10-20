@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [LED Blink](#LED_blink)
+* [Launchpad countdown with LEDs](#Launchpad countdown with LEDs)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
