@@ -91,7 +91,9 @@ For this assignment I was asked to add a button to the previous assignment which
 ### Evidence
 ![ServoButton](images/ServoButton.gif)
 ### Wiring
-![ButtonWire2](images/ButtonWire2.png)
+![ButtonWire2](images/ButtonWire2.jpg)
+### Code
+
 ## Launchpad countdown with Button and Sevo
 
 ### Description
