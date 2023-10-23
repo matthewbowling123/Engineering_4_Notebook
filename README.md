@@ -88,7 +88,7 @@ for this assignment I was asked to expand on the previous countdown assignment b
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
 ### Reflection
-This was essentially the previous assignment but with an added LED. I used what I learned about LEDs last year and added that knowledge to this assignment. Overall I learned a lot on this assignment.
+This was essentially the previous assignment but with an added LED. I used what I learned about LEDs last year and added that knowledge to this assignment. I learned about wiring the LED to GND and power and turning it on with TRUE and False commands. I made it so that when the countodwn ended, the LED value equals TRUE, thus turning the LED on.
 
 ## Launchpad_countdown_with_Button
 ### Description
