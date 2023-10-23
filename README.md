@@ -101,6 +101,7 @@ For this assignment I was asked to add a button to the previous assignment which
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 ### Reflection
 For this assignment I relaearned how the button worked. I wired it to GND and Power and set up a button value command which dictated when the button value was true and false. I could then use these inputs to make the button value effect the countdowns start.
+
 ## Launchpad countdown with Button and Sevo
 
 ### Description
@@ -116,7 +117,7 @@ For this next part of the assignment I was asked to add a Servo tnat would rotat
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
 
 ### Reflection
-This assignment added a Servo. The Servo was used in previous years but this assignment helped remind me how to wire and code it. I learned a lot about the Servo commands as well.
+This assignment added a Servo. The Servo was used in previous years but this assignment helped remind me how to wire and code it. I imported a library that added Servo commands. We could use these commands to effect how the Servo rotated. I made it rotate 90 degrees when the countdown ended.
 
 
 ## Crash Avoidence Pt 1
@@ -145,7 +146,7 @@ For this assignment I was meant to make an LED turn on whenever the ship was rot
 ![BatteryLEDWiring](images/BatteryLEDWiring.png)
 
 ### Reflection
-This assignment was mostly pretty simple but the battery took a little bit to figure out. I learned how to charge the Battery and how to wire and code it which will be very helpful later this year. This assignment was great because i learned something.
+This assignment was mostly pretty simple but the battery took a little bit to figure out. I learned how to charge the Battery and how to wire and code it which will be very helpful later this year. I ended up making it so that when the accelerometer z value apporached 0 the LED turned on.
 
 ## Crash Avoidence 3
 
