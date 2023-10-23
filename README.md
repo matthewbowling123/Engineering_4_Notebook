@@ -99,6 +99,8 @@ For this assignment I was asked to add a button to the previous assignment which
 ![ButtonWire2](images/ButtonWire2.jpg)
 ### Code
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Pico_Liftoff.py)
+### Reflection
+For this assignment I relaearned how the button worked. I wired it to GND and Power and set up a button value command which dictated when the button value was true and false. I could then use these inputs to make the button value effect the countdowns start.
 ## Launchpad countdown with Button and Sevo
 
 ### Description
