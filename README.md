@@ -173,6 +173,9 @@ For this assignment I was intructed to write code that took 3 coordinate inputs 
 ### Evidence
 ![LandAreaGif](images/LandAreaGif.gif)
 
+### Code
+[code](
+
 
 ## FEA_part_3
 
