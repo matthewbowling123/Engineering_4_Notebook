@@ -165,6 +165,15 @@ for this assignment I was asked to add an OLED screen to the previous circuit th
 ### Reflection 
 This assignment was the first one this year that was acctually challenging. It was difficult because I had never used an OLED before. I learned about the OLEDs wiring and Code as well as learned about f strings which will all be very helpful in the future. Im very glad I did this assignment even though it was very hard.
 
+## Landing_Area_Part_1
+
+### Description
+For this assignment I was intructed to write code that took 3 coordinate inputs and printed the area of the triangle created by them.
+
+### Evidence
+
+
+
 ## FEA_part_3
 
 ### Description
