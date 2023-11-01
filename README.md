@@ -171,7 +171,7 @@ This assignment was the first one this year that was acctually challenging. It w
 For this assignment I was intructed to write code that took 3 coordinate inputs and printed the area of the triangle created by them.
 
 ### Evidence
-
+![LandAreaGif](images/LandAreaGif.gif)
 
 
 ## FEA_part_3
