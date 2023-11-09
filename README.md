@@ -8,6 +8,7 @@
 * [Launchpad Countdown](#Launchpad_countdown)
 * [Launchpad countdown with LEDs](#Launchpad_countdown_with_LEDs)
 * [Launchpad countdown with Button](Launchpad_countdown_with_Button)
+* [Landing_Area_Part_1](Landing_Area_Part_1)
 * [FEA part 3](FEA_part_3)
 * [FEA part 4](FEA_part_4)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
@@ -164,6 +165,21 @@ for this assignment I was asked to add an OLED screen to the previous circuit th
 
 ### Reflection 
 This assignment was the first one this year that was acctually challenging. It was difficult because I had never used an OLED before. I learned about the OLEDs wiring and Code as well as learned about f strings which will all be very helpful in the future. Im very glad I did this assignment even though it was very hard.
+
+## Landing_Area_Part_1
+
+### Description
+For this assignment I was instructed to write code that took 3 coordinate inputs and printed the area of the triangle created by them.
+
+### Evidence
+![LandAreaGif](images/LandAreaGif.gif)
+
+### Code
+[code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area)
+
+### Reflection
+This assignment required me to learn about Functions in  CPython. Functions are a lot like functions in math where they will take inputs and output specific things based on the Inputs. I used functions to take the 3 points as inputs and use math to calculate the area and output that value! These made it so that no matter what inputs that were inserted (as long as it was not 0) there would always be a differant and correct output. [This document really helped me out](https://www.geeksforgeeks.org/python-functions/)
+
 
 ## FEA_part_3
 
