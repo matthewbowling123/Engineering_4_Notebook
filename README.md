@@ -180,6 +180,13 @@ For this assignment I was instructed to write code that took 3 coordinate inputs
 ### Reflection
 This assignment required me to learn about Functions in  CPython. Functions are a lot like functions in math where they will take inputs and output specific things based on the Inputs. I used functions to take the 3 points as inputs and use math to calculate the area and output that value! These made it so that no matter what inputs that were inserted (as long as it was not 0) there would always be a differant and correct output. [This document really helped me out](https://www.geeksforgeeks.org/python-functions/)
 
+## Landing_Area_Part_2
+
+### Description
+For this assignment I was asked to not only print the area of a traingle made by three imported points but also to display the triangle on a graph displayed on an OLED.
+
+### Code
+
 
 ## FEA_part_3
 
