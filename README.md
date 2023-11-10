@@ -180,6 +180,23 @@ For this assignment I was instructed to write code that took 3 coordinate inputs
 ### Reflection
 This assignment required me to learn about Functions in  CPython. Functions are a lot like functions in math where they will take inputs and output specific things based on the Inputs. I used functions to take the 3 points as inputs and use math to calculate the area and output that value! These made it so that no matter what inputs that were inserted (as long as it was not 0) there would always be a differant and correct output. [This document really helped me out](https://www.geeksforgeeks.org/python-functions/)
 
+## Landing_Area_Part_2
+
+### Description
+For this assignment I was asked to not only print the area of a traingle made by three imported points but also to display the triangle on a graph displayed on an OLED.
+
+### Code
+[Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaOLED)
+
+### Reflection
+This assignment ultimately proved difficult due to the OLED which requires very specific code and wiring. I ended up revisiting the past OLED assignment for a refresher on how they work. I then learned about commands that import shapes like lines, triangles, and circles. After displaying these on the OLED it was just a matter of printing the shapes. The Splash command became very helpful during this assignment as well.
+
+## Morse Code
+
+### Description
+For this assignment I was instructed to make code that reads any input I type in and print it back out in morse code.
+### Evidence
+![MorseCode](images/MorseCode.gif)
 
 ## FEA_part_3
 
