@@ -196,7 +196,7 @@ This assignment ultimately proved difficult due to the OLED which requires very 
 ### Description
 For this assignment I was instructed to make code that reads any input I type in and print it back out in morse code.
 ### Evidence
-
+![MorseCode](images/MorseCode.gif)
 
 ## FEA_part_3
 
