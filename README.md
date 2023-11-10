@@ -197,6 +197,10 @@ This assignment ultimately proved difficult due to the OLED which requires very 
 For this assignment I was instructed to make code that reads any input I type in and print it back out in morse code.
 ### Evidence
 ![MorseCode](images/MorseCode.gif)
+### Code
+[code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCode)
+### Reflection
+This assignment taught me a lot more about printing string commands. The actual Morse code itself was already given so that part was not challenging, however figuring out how to prin the exact input into mnorse code took some time. I also learned more about f strings through this assignment. Overall this was a little challenging but not too much.
 
 ## FEA_part_3
 
