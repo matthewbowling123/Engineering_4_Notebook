@@ -191,6 +191,13 @@ For this assignment I was asked to not only print the area of a traingle made by
 ### Reflection
 This assignment ultimately proved difficult due to the OLED which requires very specific code and wiring. I ended up revisiting the past OLED assignment for a refresher on how they work. I then learned about commands that import shapes like lines, triangles, and circles. After displaying these on the OLED it was just a matter of printing the shapes. The Splash command became very helpful during this assignment as well.
 
+## Morse Code
+
+### Description
+For this assignment I was instructed to make code that reads any input I type in and print it back out in morse code.
+### Evidence
+
+
 ## FEA_part_3
 
 ### Description
