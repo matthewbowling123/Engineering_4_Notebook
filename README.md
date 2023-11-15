@@ -197,6 +197,20 @@ This assignment ultimately proved difficult due to the OLED which requires very 
 For this assignment I was instructed to make code that reads any input I type in and print it back out in morse code.
 ### Evidence
 ![MorseCode](images/MorseCode.gif)
+### Code
+[code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCode)
+### Reflection
+This assignment taught me a lot more about printing string commands. The actual Morse code itself was already given so that part was not challenging, however figuring out how to prin the exact input into mnorse code took some time. I also learned more about f strings through this assignment. Overall this was a little challenging but not too much.
+
+## Morse Code with an LED
+
+### Description
+for this assignment I was asked to take the previous assignment and add an LED that blinked out the morse code printed.
+### Evidence
+![morseled](images/morseled.gif)
+### Code
+### Reflection
+for this assignment I was thankfully already given a lot of pseudo code so it was fairly easy to figure out. I used a moidfier to set values for the LED to blink which was also already given. Overall this assignment proved to be quite easy.
 
 ## FEA_part_3
 
