@@ -220,6 +220,9 @@ for this assignment I was asked to add data storage to the crash avoidance 2 ass
 ### Evidence
 
 ### Code
+[Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Data)
+### Reflection
+This assignment was very difficult to understand at first. The idea of the differant modes Code and Data was strange at first because you could not edit the code in Data mode and had to switch it to do that. Once the switch was implemented however, I got used to it.
 
 ## FEA_part_3
 
