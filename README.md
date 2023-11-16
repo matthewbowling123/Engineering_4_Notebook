@@ -213,6 +213,14 @@ for this assignment I was asked to take the previous assignment and add an LED t
 ### Reflection
 for this assignment I was thankfully already given a lot of pseudo code so it was fairly easy to figure out. I used a moidfier to set values for the LED to blink which was also already given. Overall this assignment proved to be quite easy.
 
+## Data Storage 1
+
+### Description
+for this assignment I was asked to add data storage to the crash avoidance 2 assignment. This would include a data mode which, when applied, would store the data into the Pico and display on a Data file.
+### Evidence
+
+### Code
+
 ## FEA_part_3
 
 ### Description
