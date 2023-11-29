@@ -211,7 +211,7 @@ for this assignment I was asked to take the previous assignment and add an LED t
 ### Code
 [code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/MorseCodeLED)
 ### Reflection
-for this assignment I was thankfully already given a lot of pseudo code so it was fairly easy to figure out. I used a moidfier to set values for the LED to blink which was also already given. Overall this assignment proved to be quite easy.
+for this assignment I was thankfully already given a lot of pseudo code so it was fairly easy to figure out. I used a moidfier to set values for the LED to blink which was also already given. I made it so that the LED would blink a certain amount of times at specific lengths by using variables like dot time, dash time, between letters, and between words. The LED would then turn on for a specific amount of set times.
 
 ## Data Storage 1
 
