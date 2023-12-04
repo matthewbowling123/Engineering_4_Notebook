@@ -186,6 +186,10 @@ This assignment required me to learn about Functions in  CPython. Functions are 
 For this assignment I was asked to not only print the area of a traingle made by three imported points but also to display the triangle on a graph displayed on an OLED.
 
 ### Code
+Give credit to that person at the top of your code with the following: "I used large portions of Jack's work in this assignment. Here is a link to their notebook." 
+[code](
+
+### Code
 [Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaOLED)
 
 ### Reflection
