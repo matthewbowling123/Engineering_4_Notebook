@@ -228,6 +228,14 @@ for this assignment I was asked to add data storage to the crash avoidance 2 ass
 ### Reflection
 This assignment was very difficult to understand at first. The idea of the differant modes Code and Data was strange at first because you could not edit the code in Data mode and had to switch it to do that. Once the switch was implemented however, I got used to it.
 
+## Data Storage 2
+
+### Description
+For this assignment I was asked to graph the information from the previous one using a google sheets tool.
+### Evidence
+### Link
+[Link](https://docs.google.com/spreadsheets/d/13VhAq8kMYgetvU877bOjXyqDqaySsfS4CXec7JOf_RU/edit?pli=1#gid=0)
+
 ## FEA_part_3
 
 ### Description
