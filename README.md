@@ -233,7 +233,7 @@ This assignment was very difficult to understand at first. The idea of the diffe
 ### Description
 For this assignment I was asked to graph the information from the previous one using a google sheets tool.
 ### Evidence
-![Screenshot (1).png](images/Screenshot (1).png)
+![Screenshot (1)](images/Screenshot (1).png)
 ### Link
 [Link](https://docs.google.com/spreadsheets/d/13VhAq8kMYgetvU877bOjXyqDqaySsfS4CXec7JOf_RU/edit?pli=1#gid=0)
 
