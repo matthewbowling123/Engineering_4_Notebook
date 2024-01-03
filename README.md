@@ -236,6 +236,8 @@ For this assignment I was asked to graph the information from the previous one u
 ![DataGraph](images/DataGraph.png)
 ### Link
 [Link](https://docs.google.com/spreadsheets/d/13VhAq8kMYgetvU877bOjXyqDqaySsfS4CXec7JOf_RU/edit?pli=1#gid=0)
+### Reflection
+This showed me how to plot data points by using google sheets and grpaphs. This was more of a tutorial then an assignment, however I think it will be very helpful for the pi in the sky project which requires that we store data on a Pico. 
 
 ## FEA_part_3
 
