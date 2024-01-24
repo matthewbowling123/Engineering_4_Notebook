@@ -129,6 +129,9 @@ for this assignment I was supposed to use an accelerometer to print the values o
 ### Evidence
 ![accelerometer](images/accelerometer.gif)
 
+### Code
+[Code](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/CrashAvoidence)
+
 ### Wiring
 ![accelerometerwiring](images/accelerometerwiring.png)
 
